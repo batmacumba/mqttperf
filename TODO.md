@@ -1,3 +1,3 @@
-# error handling
-# mask thread id
-# disable topics
+- error handling
+- mask thread id
+- disable topics
