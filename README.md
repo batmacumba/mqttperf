@@ -1,7 +1,9 @@
 # mqttperf
-## Dependências
-- paho-mqtt
-- descriptive_statistics
+## Instalação de dependências
+```console
+sudo gem install paho-mqtt
+sudo gem install descriptive_statistics
+```
 ## Uso
 
 ```console
